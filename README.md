@@ -1,4 +1,4 @@
-# Titanic-Stat-Analysis
+# Titanic-Deaths
 
 Analyzing statistics about Titanic Passengers
 
